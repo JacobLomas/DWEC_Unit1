@@ -1,0 +1,1 @@
+document.write("Primer dia duro escribiendo desde .js");
